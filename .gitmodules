@@ -1,0 +1,6 @@
+[submodule "KAIR"]
+	path = KAIR
+	url = https://github.com/cszn/KAIR
+[submodule "Hierarchical-Localization"]
+	path = Hierarchical-Localization
+	url = https://github.com/cvg/Hierarchical-Localization
